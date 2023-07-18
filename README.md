@@ -17,7 +17,7 @@
 
 ## Tech Stacks,
 
-- React Hooks
+- React Hooks,Context API
 - Tailwind CSS, CSS,
 - framer-motion
 - Auth0-react
